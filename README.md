@@ -44,15 +44,6 @@ Terran-Viper-Robot/ │── README.md                  # Project overview │�
 
 ---
 
-## 📸 Visuals & Demo
-### Prototype Motion (Serpentine Locomotion)  
-![Serpentine Motion Demo](media/images/serpentine_motion.gif)  
-
-### Depth Estimation & 3D Mapping  
-![Depth Mapping Demo](media/images/depth_map.png)  
-
-*(Add your demo images/videos here to make it recruiter-friendly)*  
-
 ---
 
 ## 🎯 Real-World Applications
@@ -77,7 +68,7 @@ Terran-Viper-Robot/ │── README.md                  # Project overview │�
 ✅ CAD modeling & motion simulation completed  
 ✅ Low-fidelity prototype tested (serpentine locomotion)  
 ✅ Depth image generation implemented  
-✅ 3D voxel mapping integration 
+✅ 3D voxel mapping integration
 🔄 Real-world terrain testing scheduled  
 
 ---
