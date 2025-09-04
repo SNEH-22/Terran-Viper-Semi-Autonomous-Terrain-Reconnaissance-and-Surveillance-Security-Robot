@@ -34,7 +34,7 @@ Reconnaissance in **hostile terrains** is critical for **defense, disaster manag
 ## 🛠️ Tech Stack & Tools
 **Hardware:** Arduino Mega 2560, ESP32-CAM, ArduCAM, LoRa SX1278, RS485, MG995 servos, **3D printed PLA body parts**  
 
-**Software:** Arduino IDE, Python, OpenCV, PyTorch, Open3D, Fusion 360 / SolidWorks  
+**Software:** Arduino IDE, Python, OpenCV, PyTorch, Open3D, SolidWorks  
 
 **Skills Demonstrated:** Robotics, Embedded Systems, Computer Vision, AI for 3D Mapping, CAD Design, IoT Communication,3D Printing
 
