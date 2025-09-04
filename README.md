@@ -93,7 +93,9 @@ Terran-Viper-Robot/ │── README.md                  # Project overview │�
 ## 📬 Connect
 If you're a recruiter, researcher, or enthusiast interested in **robotics, defense tech, or disaster management automation**, feel free to connect with me.  
 
-🔗 [LinkedIn – Sanyam Sneh](https://www.linkedin.com/in/sanyamsneh) | 📧 heysanyamsneh@gmail.com
+🔗 [LinkedIn – Sanyam Sneh](https://www.linkedin.com/in/sanyamsneh)
+
+| 📧 heysanyamsneh@gmail.com
 
 ---
 
