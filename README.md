@@ -36,7 +36,7 @@ Reconnaissance in **hostile terrains** is critical for **defense, disaster manag
 
 **Software:** Arduino IDE, Python, OpenCV, PyTorch, Open3D, Fusion 360 / SolidWorks  
 
-**Skills Demonstrated:** Robotics, Embedded Systems, Computer Vision, AI for 3D Mapping, CAD Design, IoT Communication, *3D Printing*
+**Skills Demonstrated:** Robotics, Embedded Systems, Computer Vision, AI for 3D Mapping, CAD Design, IoT Communication,3D Printing
 ---
 
 ## 📂 Repository Overview
