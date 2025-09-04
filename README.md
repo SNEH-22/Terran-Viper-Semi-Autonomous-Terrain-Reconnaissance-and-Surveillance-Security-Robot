@@ -29,11 +29,12 @@ Reconnaissance in **hostile terrains** is critical for **defense, disaster manag
 
 ---
 
-## 🛠️ Tech Stack & Tools
-**Hardware:** Arduino Mega 2560, ESP32-CAM, ArduCAM, LoRa SX1278, RS485, MG995 servos  
-**Software:** Arduino IDE, Python, OpenCV, PyTorch, Open3D, Fusion 360 / SolidWorks  
-**Skills Demonstrated:** Robotics, Embedded Systems, Computer Vision, AI for 3D Mapping, CAD Design, IoT Communication  
+- **Custom Fabrication:** All mechanical parts were **3D printed using PLA filament** for lightweight design, modularity, and rapid prototyping.
 
+## 🛠️ Tech Stack & Tools
+**Hardware:** Arduino Mega 2560, ESP32-CAM, ArduCAM, LoRa SX1278, RS485, MG995 servos, **3D printed PLA body parts**  
+**Software:** Arduino IDE, Python, OpenCV, PyTorch, Open3D, Fusion 360 / SolidWorks  
+**Skills Demonstrated:** Robotics, Embedded Systems, Computer Vision, AI for 3D Mapping, CAD Design, IoT Communication, **3D Printing**
 ---
 
 ## 📂 Repository Overview
@@ -63,7 +64,7 @@ Terran-Viper-Robot/ │── README.md                  # Project overview │�
 ## 👥 Project Team
 - Kritansh Singh – Electronics & Communication  
 - Aditya Narayan Jaiswal – Mechanical Engineering  
-- **Sanyam Sneh – Mechanical Engineering (Your Role: CAD Design, Servo Control, 3D Mapping Integration)**  
+- **Sanyam Sneh – Mechanical Engineering (Your Role: prototype CAD Design, Servo Control,fabrication )**  
 - Tushar Sharma – Computer Science  
 - Harsh Mishra – Electronics & Communication  
 - Ayush Kushwaha – Computer Science  
@@ -74,7 +75,7 @@ Terran-Viper-Robot/ │── README.md                  # Project overview │�
 ✅ CAD modeling & motion simulation completed  
 ✅ Low-fidelity prototype tested (serpentine locomotion)  
 ✅ Depth image generation implemented  
-🔄 3D voxel mapping integration in progress  
+✅ 3D voxel mapping integration 
 🔄 Real-world terrain testing scheduled  
 
 ---
@@ -95,7 +96,7 @@ If you're a recruiter, researcher, or enthusiast interested in **robotics, defen
 
 🔗 [LinkedIn – Sanyam Sneh](https://www.linkedin.com/in/sanyamsneh)
 
-| 📧 heysanyamsneh@gmail.com
+📧 heysanyamsneh@gmail.com
 
 ---
 
