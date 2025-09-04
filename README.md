@@ -40,13 +40,6 @@ Reconnaissance in **hostile terrains** is critical for **defense, disaster manag
 
 ---
 
-## 📂 Repository Overview
-Terran-Viper-Robot/ │── README.md                  # Project overview │── /docs │   ├── Project_Report.pdf      # Full academic report │   ├── Presentation.pdf        # (Optional) Slides for quick showcase │── /src │   ├── arduino/                # Firmware for Arduino Mega & ESP32-CAM │   ├── python/                 # Depth estimation & voxel mapping scripts │── /hardware │   ├── CAD_Models/             # CAD design files │   ├── circuit_diagrams/       # Circuit diagrams & flowcharts │── /media │   ├── images/                 # CAD renders, prototype photos │   ├── videos/                 # Prototype demos │── LICENSE │── CONTRIBUTING.md
-
----
-
----
-
 ## 🎯 Real-World Applications
 - 🪖 **Defense:** Reconnaissance in deserts, mountains & border areas.  
 - 🚑 **Disaster Relief:** Search & rescue in collapsed buildings & earthquake zones.  
